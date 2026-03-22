@@ -1,4 +1,4 @@
-const CACHE = 'lumi-v1';
+const CACHE = 'lumi-v2';
 const ASSETS = [
   './',
   './index.html',
